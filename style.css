@@ -1,0 +1,45 @@
+<html>
+
+
+<head>
+<title>Align images</title>
+<style>
+* {
+    margin-left: 7px;
+    /* box sizing:border-box; */
+}
+
+h1{
+    text-align: center
+    color: skyblue;
+    font-weight: bolder;
+}
+
+p{
+    text-align: center;
+    color: lavender;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.column {
+    float: left;
+    width: 30%;
+    height: 30%;
+}
+</style>
+</head>
+
+<body>
+<h1>
+Alayna🎀
+</h1>
+<p>
+Hello! My name is Alayna🎀. I am a coder🖥🚀
+</p>
+<div class="column">
+<img src="th.jpg"
+style="width: 80%;">
+</div>
+</body>
+</html>
